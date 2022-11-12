@@ -1,16 +1,20 @@
-### Hi there 👋
+I'm a software architect with 10+ years experience working with Node.js, Next.js, React, React Native, MongoDB, .NET and C#. I'm passionate about web and mobile development.
 
-<!--
-**aelassas/aelassas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### WEBSITES I CRAFTED
+- [globalys-group.com](https://globalys-group.com/)
+- [suncorp-energy.com](https://suncorp-energy.com)
+- [twc.ma](https://twc.ma/)
+- [teradis.ma](https://teradis.ma/)
+- [woodis.ma](https://woodis.ma/)
+- [modularis.ma](https://modularis.ma/)
+- [wexflow.github.io](https://wexflow.github.io/)
+- [bookcars.github.io](https://bookcars.github.io/)
+- [weecommerce.github.io](https://weecommerce.github.io/)
 
-Here are some ideas to get you started:
+##### WORKING ON
+- [wexflow.github.io](https://wexflow.github.io/)
+- [bookcars.github.io](https://bookcars.github.io/)
+- [weecommerce.github.io](https://weecommerce.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+If you'd like to discuss any sort of opportunity, feel free to contact me.
