@@ -14,7 +14,7 @@ I am a software architect with 10+ years experience working with Node.js, Next.j
 ##### WORKING ON
 - [wexflow](https://wexflow.github.io/): Open Source .NET Workflow Engine and Automation Platform
 - [bookcars](https://bookcars.github.io/): Open Source Car Rental Platform with Mobile App
-- [weecommerce](https://weecommerce.github.io/): Open Source eCommerce Platform on Next.js
+- [weecommerce](https://weecommerce.github.io/): Open Source eCommerce Platform Optimized for SEO
 
 #
 If you'd like to discuss any sort of opportunity, feel free to contact me.
