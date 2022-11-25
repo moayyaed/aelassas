@@ -10,12 +10,12 @@ I am a software architect with 10+ years experience working with Node.js, Next.j
 - [modularis.ma](https://modularis.ma)
 - [wexflow.github.io](https://wexflow.github.io)
 - [bookcars.github.io](https://bookcars.github.io)
-- [weecommerce.github.io](https://weecommerce.github.io)
+- [wexcommerce.github.io](https://wexcommerce.github.io)
 
 ##### WORKING ON
 - [wexflow](https://wexflow.github.io/): Open Source .NET Workflow Engine and Automation Platform
 - [bookcars](https://bookcars.github.io/): Open Source Car Rental Platform with Mobile App
-- [weecommerce](https://weecommerce.github.io/): Open Source eCommerce Platform Optimized for SEO
+- [wexcommerce](https://wexcommerce.github.io/): Open Source eCommerce Platform SEO Optimized
 
 #
 If you'd like to discuss any sort of opportunity, feel free to contact me.
