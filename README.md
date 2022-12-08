@@ -4,7 +4,7 @@ I am a software architect with 10+ years experience working with Node.js, Next.j
 - [Wexflow](https://wexflow.github.io/): Open Source Workflow Engine
 - [BookCars](https://bookcars.github.io/): Open Source Car Rental Platform with Mobile App
 - [wexCommerce](https://wexcommerce.github.io/): Open Source eCommerce Platform
-- [Wexstream](https://github.com/aelassas/wexstream): Open Source Video Conferencing Platform
+- [wexStream](https://github.com/aelassas/wexstream): Open Source Video Conferencing Platform
 
 #
 If you'd like to discuss any sort of opportunity, feel free to contact me.
