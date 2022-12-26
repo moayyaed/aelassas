@@ -1,4 +1,4 @@
-I am a graduate engineer in software computing ([ENSEIRB-MATMECA](https://en.m.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_d%27%C3%A9lectronique,_informatique,_t%C3%A9l%C3%A9communications,_math%C3%A9matique_et_m%C3%A9canique_de_Bordeaux), France, 2010).
+I am a graduate engineer in software computing ([ENSEIRB](https://en.m.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_d%27%C3%A9lectronique,_informatique,_t%C3%A9l%C3%A9communications,_math%C3%A9matique_et_m%C3%A9canique_de_Bordeaux), France, 2010). I am working with Node.js, React, React Native, MongoDB, .NET and C#.
 
 ##### My Open Source Projects
 - [Wexflow](https://wexflow.github.io/): Open Source .NET Workflow Engine
