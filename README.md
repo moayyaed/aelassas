@@ -12,6 +12,7 @@ I am a graduate engineer in software computing ([ENSEIRB](https://en.m.wikipedia
 - [jco.ma](https://jco.ma)
 - [volumine.ma](https://volumine.ma)
 - [suncorp-energy.com](https://suncorp-energy.com)
+- [hoppe.ma](http://hoppe.ma)
 - [teradis.ma](https://teradis.ma/)
 - [woodis.ma](https://woodis.ma/)
 - [modularis.ma](https://modularis.ma/)
