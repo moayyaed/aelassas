@@ -4,6 +4,7 @@ I am a graduate engineer in software computing ([ENSEIRB](https://en.m.wikipedia
 - [Wexflow](https://wexflow.github.io/): .NET Workflow Engine and Automation Platform
 - [BookCars](https://bookcars.github.io/): Car Rental Platform with Mobile App
 - [wexCommerce](https://wexcommerce.github.io/): eCommerce Platform on Next.js
+- [Wexstream](https://github.com/aelassas/wexstream): Video Conferencing Platform
 
 
 ##### WEBSITES I CRAFTED
