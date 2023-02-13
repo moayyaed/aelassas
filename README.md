@@ -6,7 +6,6 @@ I am a graduate engineer in software computing ([ENSEIRB](https://en.m.wikipedia
 - [wexCommerce](https://wexcommerce.github.io/): eCommerce Platform on Next.js
 - [Wexstream](https://github.com/aelassas/wexstream): Video Conferencing Platform
 
-
 ##### WEBSITES I CRAFTED
 - [twc.ma](https://twc.ma/)
 - [globalys-group.com](https://globalys-group.com/)
@@ -17,9 +16,11 @@ I am a graduate engineer in software computing ([ENSEIRB](https://en.m.wikipedia
 - [teradis.ma](https://teradis.ma/)
 - [woodis.ma](https://woodis.ma/)
 - [modularis.ma](https://modularis.ma/)
+<!--
 - [wexflow.github.io](https://wexflow.github.io/)
 - [bookcars.github.io](https://bookcars.github.io/)
 - [wexcommerce.github.io](https://wexcommerce.github.io/)
+-->
 
 #
 If you'd like to discuss any sort of opportunity, feel free to contact me.
